@@ -1,5 +1,4 @@
 # Max-spanning-tree
-About
 Returns a minimal number of courses from a city to another city, given a graph of cities with roads connecting them (each path can have other capacity for people transported during a single ride).
 ### How to run
 Firstly, compile the maxst.cpp file. An input can be entered directly into the terminal after running .exe file or by redirecting .txt file with everything needed.
